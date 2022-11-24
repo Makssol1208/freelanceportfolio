@@ -317,7 +317,7 @@ html,body {
 
 .btn-outline:hover {
   opacity: 0.8;
-  background-color: var(--title-1);
+  background-color: var(--white);
 }
 
 .btn-outline:active {
